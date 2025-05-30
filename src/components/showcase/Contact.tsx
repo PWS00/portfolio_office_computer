@@ -120,7 +120,7 @@ const Contact: React.FC<ContactProps> = (props) => {
                     />
                     <SocialBox
                         icon={inIcon}
-                        link={'https://www.linkedin.com/in/henryheffernan/'}
+                        link={'https://www.linkedin.com/in/pietro-walter-soriano-874a04315/'}
                     />
                     <SocialBox
                         icon={twitterIcon}
@@ -138,8 +138,8 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <br />
                 <p>
                     <b>Email: </b>
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:waltersoriano@libero.it">
+                        waltersoriano@libero.it
                     </a>
                 </p>
 
